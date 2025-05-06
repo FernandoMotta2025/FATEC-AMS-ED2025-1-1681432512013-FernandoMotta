@@ -35,7 +35,7 @@ int main() {
         }
     }
 
-    // Exibe o array em ordem decrescente
+    // Exibe o array em ordem crescente
     printf("Array : ");
     for(i = 0; i < quant; i++) {
         printf("%d  ", arr[i]);
