@@ -3,7 +3,7 @@
 /*             Objetivo: <<   utilização do Bubblesort    >>                        */
 /*                                                                                  */
 /*                                            Autor: Fernando Motta Fernandes       */
-/*                                                                   Data:02/04/2025*/
+/*                                                                   Data:06/05/2025*/
 
 #include <stdio.h>
 
